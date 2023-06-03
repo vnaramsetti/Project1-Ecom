@@ -121,7 +121,7 @@ justify-content: center;
 }
 #hero{
    margin-top: 55px;
-    background-image: url("https://github.com/vnaramsetti/Project1-Ecom/blob/main/img/hero4.png");
+    background-image: url("https://github.com/vnaramsetti/Project1-Ecom/blob/main/https://github.com/vnaramsetti/Project1-Ecom/blob/main//hero4.png");
     height: 90vh;
     width: 100%;
     padding: 0px 80px;
@@ -140,7 +140,7 @@ padding-bottom: 15px;
     color: #088178;
 }
 #hero button{
-    background-image: url("img/button.png");
+    background-image: url("https://github.com/vnaramsetti/Project1-Ecom/blob/main//button.png");
     border: 0;
     background-color: transparent;
     color: #088178;
@@ -170,7 +170,7 @@ padding-bottom: 15px;
 
 }
 /* To make responsive */
-#feature .fe-box img{
+#feature .fe-box https://github.com/vnaramsetti/Project1-Ecom/blob/main/{
     margin-bottom: 10px;
     width: 100%;
 }
@@ -230,7 +230,7 @@ flex-wrap: wrap;
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
 }
 
-#Product1 .pro img{
+#Product1 .pro https://github.com/vnaramsetti/Project1-Ecom/blob/main/{
 width: 100%;
 border-radius: 20px;
 }
@@ -276,7 +276,7 @@ border-radius: 20px;
     justify-content: center;
     text-align: center;
     align-items: center;
-    background-image: url('img/b2.jpg');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b2.jpg');
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -309,7 +309,7 @@ color: red;
     justify-content: center;
     align-items: center;
     align-items: flex-start;
-    background-image: url('img/b17.jpg');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b17.jpg');
     min-width: 500px;
     height: 50vh;
     background-size: cover;
@@ -318,7 +318,7 @@ color: red;
 
 }
 #sm-banner .banner-box2{
-    background-image: url('img/b10.jpg');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b10.jpg');
 }
 #sm-banner h4{
     color: #fff;
@@ -352,7 +352,7 @@ color: red;
     justify-content: center;
     align-items: center;
     align-items: flex-start;
-    background-image: url('img/b7.jpg');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b7.jpg');
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -362,10 +362,10 @@ color: red;
 
 }
 #banner3 .banner-box2{
-    background-image: url('img/b4.jpg');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b4.jpg');
 }
 #banner3 .banner-box3{
-    background-image: url('img/b18.jpg');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b18.jpg');
 }
 #banner3 h2{
     color: #fff;
@@ -382,7 +382,7 @@ color: red;
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-   background-image: url('img/b14.png');
+   background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b14.png');
    background-color: #041e42;
    background-repeat: no-repeat;
    background-image: 20% 30%;
@@ -461,11 +461,11 @@ footer .follow i{
     cursor: pointer;
     padding-right: 4px;
 }
-footer .install .row img{
+footer .install .row https://github.com/vnaramsetti/Project1-Ecom/blob/main/{
 border: 1px solid #088178;
 border-radius: 6px;
 }
-footer .install img{
+footer .install https://github.com/vnaramsetti/Project1-Ecom/blob/main/{
     margin: 10px 0 15px 0;
 }
 footer .follow i:hover,footer a:hover{
@@ -481,7 +481,7 @@ footer .copyright{
 
 #page-header {
     margin-top:7%;
-    background-image: url('img/b1.jpg');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b1.jpg');
     width: 100%;
     height: 40vh;
     display: flex;
@@ -517,11 +517,11 @@ footer .copyright{
     width: 40%;
     padding-right: 30px;
 }
-#prodetails .Small-Img-group {
+#prodetails .Small-https://github.com/vnaramsetti/Project1-Ecom/blob/main/-group {
     display: flex;
     justify-content: space-between;
 }
-#prodetails .Small-Img-col {
+#prodetails .Small-https://github.com/vnaramsetti/Project1-Ecom/blob/main/-col {
     flex-basis: 24%;
     cursor: pointer;
 }
@@ -563,7 +563,7 @@ footer .copyright{
 }
 /* Blog Page */
 #page-header.blog-header {
-    background-image: url('img/b19.jpg');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//b19.jpg');
 }
 
 #blog .blog-box {
@@ -576,7 +576,7 @@ padding-bottom: 90px;
 #blog {
     padding: 150px 150px 0 150px;
 }
-#blog .blog-img {
+#blog .blog-https://github.com/vnaramsetti/Project1-Ecom/blob/main/ {
     width: 50%;
     margin-right: 40px;
 }
@@ -584,7 +584,7 @@ padding-bottom: 90px;
     width: 50%;
 }
 
-#blog img {
+#blog https://github.com/vnaramsetti/Project1-Ecom/blob/main/ {
     width: 100%;
     height: 300px;
     object-fit: cover;
@@ -628,14 +628,14 @@ padding-bottom: 90px;
 }
 /* About Page */
 #page-header.about-header {
-    background-image: url('img/banner.png');
+    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main//banner.png');
 }
 #about-head {
     display: flex;
     align-items: center;
 }
 
- #about-head img {
+ #about-head https://github.com/vnaramsetti/Project1-Ecom/blob/main/ {
         width: 50%;
         height: auto;
 }
@@ -734,7 +734,7 @@ padding-bottom: 90px;
     display: flex;
     align-items: flex-start;
 }
-#form-details .people div img {
+#form-details .people div https://github.com/vnaramsetti/Project1-Ecom/blob/main/ {
     width: 65px;
     height: 65px;
     border-radius:33px;
@@ -790,7 +790,7 @@ padding-bottom: 90px;
     display: flex;
     align-items: center;
 }
-#cart .product-details img{
+#cart .product-details https://github.com/vnaramsetti/Project1-Ecom/blob/main/{
     width: 18%;
 }
 #cart .product-details span {
@@ -920,7 +920,7 @@ padding-bottom: 90px;
     #newsletter .form{
         width: 55%;
     }
-    #about-head img {
+    #about-head https://github.com/vnaramsetti/Project1-Ecom/blob/main/ {
         width: 50%;
         height: auto;
      }
@@ -1024,7 +1024,7 @@ padding-bottom: 90px;
         align-items: flex-start;
     
     }
-    #blog .blog-img {
+    #blog .blog-https://github.com/vnaramsetti/Project1-Ecom/blob/main/ {
         width: 100%;
         margin-right: 0px;
         margin-bottom: 30px;
@@ -1036,7 +1036,7 @@ padding-bottom: 90px;
     #about-head {
        flex-direction: column;
     }
-    #about-head img {
+    #about-head https://github.com/vnaramsetti/Project1-Ecom/blob/main/ {
         width: 100%;
         margin-bottom: 20px;
     }
@@ -1075,97 +1075,5 @@ padding-bottom: 90px;
     }
    
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
