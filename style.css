@@ -140,7 +140,7 @@ padding-bottom: 15px;
     color: #088178;
 }
 #hero button{
-    background-image: url("/img/button.png");
+    background-image: url("./img/button.png");
     border: 0;
     background-color: transparent;
     color: #088178;
@@ -563,7 +563,7 @@ footer .copyright{
 }
 /* Blog Page */
 #page-header.blog-header {
-    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/blob/main/img/b19.jpg');
+    background-image: url('./img/b19.jpg');
 }
 
 #blog .blog-box {
@@ -628,7 +628,7 @@ padding-bottom: 90px;
 }
 /* About Page */
 #page-header.about-header {
-    background-image: url('https://github.com/vnaramsetti/Project1-Ecom/tree/main/img/banner.png');
+    background-image: url('./img/banner.png');
 }
 #about-head {
     display: flex;
